@@ -1,9 +1,39 @@
 Sample JSON returned by postViewPayBill API
 --------------------------------------------
 
-{"PDStatus":"LIVE","SDToBePaid":"N","ConsumerType":"LT","CircleDesc":null,"CircleCode":null,"SD_ARREARS":0,"SD_DEMAN
-DED":0,"billingUnitDesc":"PUNE SUB-DN.","billToBePaid":"N","netPPDAmount":140,"paymentDate":null,"promptPaymentDiscount":12.82,"rea
-dingDate":null,"amountToPay":0,"consumerStatus":"0","billAmount":140,"promptPaymentDate":"\/Date(1469385000000)\/","dueDate":"05 Aug 20
-16","consumptionUnits":204,"billingUnit":"1003","consumerNo":"1234567889","processingCycle":"2","billYear":null,"billMonth":"Jul 2016"
-,"OfficeType":null,"OfficeCode":null,"PreferredLang":null,"SessionId":null,"SourceApp":null,"CreatedBy":null,"CreatedDt":"\/Date(-621355
-96800000)\/","UpdatedBy":null,"UpdatedDt":"\/Date(-62135596800000)\/","Status":null}')
+{
+    "PDStatus": "LIVE",
+    "SDToBePaid": "N",
+    "ConsumerType": "LT",
+    "CircleDesc": null,
+    "CircleCode": null,
+    "SD_ARREARS": 0,
+    "SD_DEMANDED": 0,
+    "billingUnitDesc ": "PUNE SUB - DN.",
+    "billToBePaid ": "N ",
+    "netPPDAmount ": 140,
+    "paymentDate ": null,
+    "promptPaymentDiscount ": 12.82,
+    "readingDate ": null,
+    "amountToPay ": 0,
+    "consumerStatus ": "0",
+    "billAmount": 140,
+    "promptPaymentDate ": "Date(1469385000000)",
+    "dueDate ": "05 Aug 2016 ",
+    "consumptionUnits ": 204,
+    "billingUnit ": "1003 ",
+    "consumerNo ": "1234567889 ",
+    "processingCycle ": "2 ",
+    "billYear ": null,
+    "billMonth ": "Jul 2016 ",
+    "OfficeType": null,
+    "OfficeCode": null,
+    "PreferredLang": null,
+    "SessionId": null,
+    "SourceApp": null,
+    "CreatedBy": null,
+    "CreatedDt": "Date(-62135596800000)",
+    "UpdatedBy ": null,
+    "UpdatedDt ": "Date(-62135596800000)",
+    "Status ": null
+}
